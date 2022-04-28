@@ -4,7 +4,7 @@
 - 📫 How to reach me: piotrek124@gmail.com
 
 
-- Simple MNIST recognition in Julia: https://dev.to/piotrek124/simple-mnist-recognition-in-julia-using-flux-2fg5
+- Simple neural network MNIST recognition in Julia: https://dev.to/piotrek124/simple-mnist-recognition-in-julia-using-flux-2fg5
 <!---
 piotrek124-1/piotrek124-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
