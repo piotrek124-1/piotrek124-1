@@ -10,7 +10,7 @@
       - ![D3](https://d3js.org/)
       - ![R Markdown](https://rmarkdown.rstudio.com/)
   - **Other hobbies:**
-    - 📘 Books (mostly physics/astronomy obaited popular science)
+    - 📘 Books (mainly popular science)
     - :hiking_boot: Physical activity (walking, hiking)
     - 🚀 Science
     - ♟️ Chess
