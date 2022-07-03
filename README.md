@@ -28,7 +28,6 @@ piotrek124-1/piotrek124-1 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-
 #### Tech stack
 ![Julia](https://img.shields.io/badge/julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust&logoColor=white)
