@@ -2,23 +2,21 @@
 - 👀 I’m interested in: 
   - **Programming:**
     - Machine Learning
-      - [Flux](https://github.com/FluxML/Flux.jl)
-      - [TensorFlow.js](https://www.tensorflow.org/js)
+      | [Flux](https://github.com/FluxML/Flux.jl) | [TensorFlow.js](https://www.tensorflow.org/js) |
+      |-------------------------------------------|------------------------------------------------|
     - Data Visualization
-      - ![Dash](https://dash.plotly.com/)
-      - ![Plotly](https://plotly.com/)
-      - ![D3](https://d3js.org/)
-      - ![R Markdown](https://rmarkdown.rstudio.com/)
-  - **Other hobbies:**
-    - 📘 Books (mainly popular science)
-    - :hiking_boot: Physical activity (walking, hiking)
-    - 🚀 Science
-    - ♟️ Chess
+      | ![Dash](https://dash.plotly.com/) | ![Plotly](https://plotly.com/) |
+      |-----------------------------------|--------------------------------|
+      | **![D3](https://d3js.org/)** | **![R Markdown](https://rmarkdown.rstudio.com/)** |
+- **Other hobbies:**
+    | 📘 Books (mainly popular science) | :hiking_boot: Physical activity (walking, hiking) |
+    |-----------------------------------|---------------------------------------------------|
+    | **🚀 Science** | **♟️ Chess** |
+    | **Monitoring and data analysis of health parameters (data from sleep etc.)** | 
 - 🌱 I’m currently learning: 
-  - Machine Learning 
-  - [Flux](https://github.com/FluxML/Flux.jl)
-  - [Julia](https://julialang.org/)
-  - [Rust](https://www.rust-lang.org/)
+  | Machine Learning | [Flux](https://github.com/FluxML/Flux.jl) |
+  |------------------|-------------------------------------------|
+  | **[Julia](https://julialang.org/)** | **[Rust](https://www.rust-lang.org/)** |
 - 📫 How to reach me: piotrek124@gmail.com
 
 - Other stuff
